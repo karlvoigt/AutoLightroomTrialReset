@@ -7,4 +7,4 @@ AutoLightroomTrialResetter composes of a few different scripts and files. The ma
 
 
 # How to use
-Simply run the installer with terminal, enter your password (you need to be system administrator) and then you should be done. Just check the terminal window to ensure that there weren’t any errors.
+Simply unzip the file and run the installer with terminal, enter your password (you need to be system administrator) and then you should be done. Just check the terminal window to ensure that there weren’t any errors.
